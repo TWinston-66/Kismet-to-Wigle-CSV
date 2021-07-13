@@ -6,6 +6,8 @@ Uses the kismetdb cli tool to convert the .kismet log files from Kismet to a Wig
 ## Usage 
 Place the script in the same directory as the .kismet files 
 
-Then run the script 
+Then run the script...
+
+sudo python3 Kismet_To_CSV.py
 
 The sctipt finds all .kismet files and systematically converts then to CSV files
