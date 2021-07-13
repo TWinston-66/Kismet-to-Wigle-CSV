@@ -1,9 +1,10 @@
 ########### Kismet to Wigle CSV Conversion Scipt ###########
 
 import os 
+import pathlib
 
 # Define path of .kismet files
-path = ""
+path = pathlib.Path(__file__).parent.resolve()
 files = os.listdir(path)
 
 # Define .kismet file list
