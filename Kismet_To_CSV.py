@@ -3,7 +3,7 @@
 import os 
 
 # Define path of .kismet files
-path = "/home/winston/Documents/Wardriving"
+path = ""
 files = os.listdir(path)
 
 # Define .kismet file list
