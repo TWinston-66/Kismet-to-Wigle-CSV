@@ -15,3 +15,5 @@ Then run the script...
 sudo python3 Kismet_To_CSV.py
 
 The sctipt finds all .kismet files and systematically converts then to CSV files
+
+If you entered yes to the upload question it will then upload your files to your wigle account
