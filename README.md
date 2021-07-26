@@ -1,5 +1,5 @@
 # Kismet-to-Wigle-CSV
-## Short Python Script to convert .kismet files to Wigle CSV 
+## Short Python Script to convert .kismet files to Wigle CSV then Upload to Wigle
 
 Uses the kismetdb cli tool to convert the .kismet log files from Kismet to a Wigle CSV file 
 
